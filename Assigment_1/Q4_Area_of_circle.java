@@ -1,0 +1,8 @@
+public class Q4_Area_of_circle {
+    public static void main(String[] args) {
+        float pie = 3.14f;
+        int radius = 2;
+        float Area = pie*radius*radius;
+        System.out.println("The are of circle is:"+Area);
+    }
+}
